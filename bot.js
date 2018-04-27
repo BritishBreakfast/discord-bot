@@ -5,10 +5,10 @@ const client = new Discord.Client();
 const clbot = new Cleverbot;
 const newUsers = [];
 
-clbot.configure({botapi: "CC8d68Ec8JysdxgZaDRKxPyItVw"});
+clbot.configure({botapi: "lol"});
 
 const config = {
-  "token" : "NDI4Njg3MzI5NTcwNDU1NTgw.DZ2tuA.NY84rC95gPvGT925tA6QTJWmRsg",
+  "token" : "lol",
   "prefix" : "b!",
 }
 
